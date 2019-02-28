@@ -1,2 +1,4 @@
 # Web-View-App
-"murataktay.com" sitesi web view uygulaması
+# Uyarı!!
+murataktay.com sitesi şuan aktif olmadığı iççin hata alabilirsiniz.
+murataktay.com sitesi web view uygulaması
