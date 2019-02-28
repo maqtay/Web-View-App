@@ -1,0 +1,43 @@
+{
+  "project_info": {
+    "project_number": "585252272608",
+    "firebase_url": "https://murataktaycom-dc505.firebaseio.com",
+    "project_id": "murataktaycom-dc505",
+    "storage_bucket": "murataktaycom-dc505.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585252272608:android:32483c0dbbc42a6a",
+        "android_client_info": {
+          "package_name": "com.murataktay.murataktay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585252272608-7imff0989ftnoar98pjec8e5i59pbh6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArCh4-TJblxPSF5TuBzwyuj0L-Gn1Fvjc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-7780406441380187~8123244901"
+    }
+  ],
+  "configuration_version": "1"
+}
